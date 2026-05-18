@@ -92,4 +92,4 @@ This repository contains 40 Python programs that cover fundamental programming c
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/shahriar-26/python-exercise.git
+git clone https://github.com/shahriar-26/40thon.git
